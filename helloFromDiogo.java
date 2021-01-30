@@ -1,3 +1,4 @@
+
 public class helloFromDiogo {
 
         public static void main(String[] args) {
@@ -6,4 +7,4 @@ public class helloFromDiogo {
         }
     }
 
-}
+
